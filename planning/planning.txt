@@ -1,0 +1,11 @@
+List of Requirements
+
+1. The application will need to be a GUI
+2. The application will show all of the students data
+3. Students data will consist of their: name, course, and phone number
+4. The application will allow to insert new record
+5. The application will be able to edit record
+6. The application will be able to delete a record
+7. The application will be able to search
+8. The application will be able to sort, base on name or course
+
